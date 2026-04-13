@@ -1,31 +1,32 @@
-# Projeto Digital Twin para Infraestrutura de Internet  
-# Digital Twin Project for Internet Infrastructure  
+# DT-MII: Digital Twin for Internet Infrastructure Management
 
-🚧 **Em construção | Under Construction** 🚧  
+[![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-green.svg)](README.pt-br.md)
 
-Este repositório está em fase inicial de desenvolvimento.  
-Nosso objetivo é criar um projeto de *Digital Twin* voltado para a infraestrutura de internet.  
+This repository contains the data, algorithms, and ontological models for the **DT-MII** project. This project proposes a semantic unification for Internet Infrastructure (II) using a High-Level Ontology grounded in the **Unified Foundational Ontology (UFO)**.
 
-This repository is in the early stages of development.  
-Our goal is to build a *Digital Twin* project focused on internet infrastructure.  
+## 🎯 Project Goals
+The DT-MII acts as a **Semantic Immune System** for Autonomous Systems (AS), capable of:
+* Harmonizing heterogeneous technologies (Fiber, Satellite, Wireless) through a fundamental triad: **Node, Connection, and Channel**.
+* Implementing a "Logical Constitution" based on Description Logic (TBox and ABox).
+* Mitigating anomalies, such as DDoS attacks, through real-time semantic reasoning.
+
+## 📂 Repository Structure
+* `/docs`: Technical papers (LaTeX), project drafts, and publications.
+* `/ontology`: The Domain Ontology (ODT) files (.ttl, .owl) and gUFO imports.
+* `/src`: Python scripts for Semantic Ingestion, Reasoning, and Mitigation.
+* `/topology`: GNS3 project files and network configurations.
+* `/infrastructure`: Dockerfiles and setup for GraphDB/Fuseki.
+* `/data`: Generated ABox triples and telemetry logs.
+
+## 🛠️ Requirements & Setup
+* **OS:** Windows 11 with WSL2 (Ubuntu 22.04 LTS).
+* **Network Emulation:** GNS3 (GUI + VM).
+* **Ontology Design:** Protégé.
+* **Programming:** Python 3.12.4+.
+
+## 📄 Documentation
+The theoretical foundation of this project is detailed in the paper:
+> *Braga, J. et al. (2026). Digital Twin Project for Internet Infrastructure Management (DT-MII). To be published.*
 
 ---
-
-## Status | Status
-- Estrutura básica criada | Basic structure created  
-- Documentação em andamento | Documentation in progress  
-- Código e exemplos serão adicionados em breve | Code and examples coming soon  
-
----
-
-## Contribuições | Contributions
-Ainda não estamos aceitando contribuições externas.  
-Assim que o projeto estiver mais estruturado, abriremos para colaboração.  
-
-We are not accepting external contributions yet.  
-Once the project is more structured, we will open for collaboration.  
-
----
-
-Obrigado pela paciência! Em breve teremos novidades.  
-Thank you for your patience! Updates coming soon.
+*Developed by Juliao Braga - Federal University of ABC (UFABC).*
