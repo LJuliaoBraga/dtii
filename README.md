@@ -1,4 +1,5 @@
-# DT-MII: Digital Twin for Internet Infrastructure Management
+# DT-II: Ontologies, Digital Twin and Intelligent Telemetry for Internet
+Infrastructure
 
 [![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-green.svg)](README.pt-br.md)
 
