@@ -1,4 +1,4 @@
-# DT-MII: Gêmeo Digital para Gestão de Infraestrutura de Internet
+# DT-MI: Ontologias, Gêmeo Digital e Telemetria Inteligente para Infraestrutura da Internet
 
 [![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](README.md)
 
