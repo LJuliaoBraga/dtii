@@ -26,7 +26,8 @@ The DT-MII acts as a **Semantic Immune System** for Autonomous Systems (AS), cap
 
 ## 📄 Documentation
 The theoretical foundation of this project is detailed in the paper:
-> *Braga, J. et al. (2026). Digital Twin Project for Internet Infrastructure Management (DT-MII).*
+> *Braga, J. et al. (2026). Ontologies, Digital Twin and Intelligent Telemetry for
+Internet Infrastructure (DT-II).* Available here: https://github.com/LJuliaoBraga/dtii/blob/main/docs/en-us/2026-ProjectDT-II-EN.pdf
 
 ---
 *Developed by Juliao Braga - Federal University of ABC (UFABC).*

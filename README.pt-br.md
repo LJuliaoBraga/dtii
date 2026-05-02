@@ -26,7 +26,8 @@ O DT-MII atua como um **Sistema Imunológico Semântico** para Sistemas Autônom
 
 ## 📄 Documentação
 A fundamentação teórica deste projeto está detalhada no artigo:
-> *Braga, J. et al. (2026). Digital Twin Project for Internet Infrastructure Management (DT-MII). To be published.*
+> *Braga, J. et al. (2026). Ontologias, Gêmeo Digital e Telemetria Inteligente para a
+Infraestrutura da Internet (DT-II).* Disponível aqui: https://github.com/LJuliaoBraga/dtii/blob/main/docs/pt-br/2026-ProjectDT-II-PT.pdf 
 
 ---
 *Desenvolvido por Juliao Braga - Universidade Federal do ABC (UFABC).*
