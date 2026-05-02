@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.gns3project
+.DS_Store
+*.log
+*.aux
+*.synctex.g
